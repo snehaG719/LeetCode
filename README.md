@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/snehaG719/LeetCode/tree/master/0041-first-missing-positive) |
 | [0283-move-zeroes](https://github.com/snehaG719/LeetCode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/snehaG719/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0485-max-consecutive-ones](https://github.com/snehaG719/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0912-sort-an-array](https://github.com/snehaG719/LeetCode/tree/master/0912-sort-an-array) |
 | [3834-merge-adjacent-equal-elements](https://github.com/snehaG719/LeetCode/tree/master/3834-merge-adjacent-equal-elements) |
 ## Hash Table
