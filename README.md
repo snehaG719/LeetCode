@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/snehaG719/LeetCode/tree/master/0009-palindrome-number) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/snehaG719/LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/snehaG719/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Binary Search
 |  |
@@ -197,4 +198,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/snehaG719/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+## Geometry
+|  |
+| ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/snehaG719/LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
