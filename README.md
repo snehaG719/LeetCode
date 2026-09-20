@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/snehaG719/LeetCode/tree/master/0205-isomorphic-strings) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/snehaG719/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/snehaG719/LeetCode/tree/master/1957-delete-characters-to-make-fancy-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/snehaG719/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/snehaG719/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3834-merge-adjacent-equal-elements](https://github.com/snehaG719/LeetCode/tree/master/3834-merge-adjacent-equal-elements) |
 ## Quickselect
 |  |
