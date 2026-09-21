@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/snehaG719/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0912-sort-an-array](https://github.com/snehaG719/LeetCode/tree/master/0912-sort-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/snehaG719/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [3524-find-x-value-of-array-i](https://github.com/snehaG719/LeetCode/tree/master/3524-find-x-value-of-array-i) |
 | [3834-merge-adjacent-equal-elements](https://github.com/snehaG719/LeetCode/tree/master/3834-merge-adjacent-equal-elements) |
 ## Hash Table
 |  |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/snehaG719/LeetCode/tree/master/0009-palindrome-number) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/snehaG719/LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/snehaG719/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [3524-find-x-value-of-array-i](https://github.com/snehaG719/LeetCode/tree/master/3524-find-x-value-of-array-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/snehaG719/LeetCode/tree/master/0118-pascals-triangle) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/snehaG719/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/snehaG719/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [3524-find-x-value-of-array-i](https://github.com/snehaG719/LeetCode/tree/master/3524-find-x-value-of-array-i) |
 ## Prefix Sum
 |  |
 | ------- |
