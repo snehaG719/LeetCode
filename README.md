@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/snehaG719/LeetCode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/snehaG719/LeetCode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/snehaG719/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/snehaG719/LeetCode/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/snehaG719/LeetCode/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/snehaG719/LeetCode/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/snehaG719/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/snehaG719/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/snehaG719/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/snehaG719/LeetCode/tree/master/0035-search-insert-position) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/snehaG719/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Divide and Conquer
 |  |
