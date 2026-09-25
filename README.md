@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/snehaG719/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/snehaG719/LeetCode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/snehaG719/LeetCode/tree/master/0036-valid-sudoku) |
+| [0039-combination-sum](https://github.com/snehaG719/LeetCode/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/snehaG719/LeetCode/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/snehaG719/LeetCode/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/snehaG719/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -230,4 +231,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/snehaG719/LeetCode/tree/master/0036-valid-sudoku) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/snehaG719/LeetCode/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
