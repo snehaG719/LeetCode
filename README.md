@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/snehaG719/LeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/snehaG719/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/snehaG719/LeetCode/tree/master/0205-isomorphic-strings) |
+| [1021-remove-outermost-parentheses](https://github.com/snehaG719/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/snehaG719/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/snehaG719/LeetCode/tree/master/1957-delete-characters-to-make-fancy-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/snehaG719/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/snehaG719/LeetCode/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/snehaG719/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [1021-remove-outermost-parentheses](https://github.com/snehaG719/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [3834-merge-adjacent-equal-elements](https://github.com/snehaG719/LeetCode/tree/master/3834-merge-adjacent-equal-elements) |
 ## Simulation
 |  |
@@ -280,4 +282,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/snehaG719/LeetCode/tree/master/0169-majority-element) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/snehaG719/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
