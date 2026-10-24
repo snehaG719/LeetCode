@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/snehaG719/LeetCode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/snehaG719/LeetCode/tree/master/0009-palindrome-number) |
+| [0067-add-binary](https://github.com/snehaG719/LeetCode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/snehaG719/LeetCode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/snehaG719/LeetCode/tree/master/0509-fibonacci-number) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/snehaG719/LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/snehaG719/LeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/snehaG719/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/snehaG719/LeetCode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/snehaG719/LeetCode/tree/master/0067-add-binary) |
 | [0205-isomorphic-strings](https://github.com/snehaG719/LeetCode/tree/master/0205-isomorphic-strings) |
 | [1021-remove-outermost-parentheses](https://github.com/snehaG719/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/snehaG719/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/snehaG719/LeetCode/tree/master/0067-add-binary) |
 | [3498-reverse-degree-of-a-string](https://github.com/snehaG719/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3834-merge-adjacent-equal-elements](https://github.com/snehaG719/LeetCode/tree/master/3834-merge-adjacent-equal-elements) |
 ## Quickselect
@@ -304,4 +307,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/snehaG719/LeetCode/tree/master/1021-remove-outermost-parentheses) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/snehaG719/LeetCode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
