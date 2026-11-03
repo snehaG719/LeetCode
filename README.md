@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/snehaG719/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/snehaG719/LeetCode/tree/master/0067-add-binary) |
 | [0205-isomorphic-strings](https://github.com/snehaG719/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0402-remove-k-digits](https://github.com/snehaG719/LeetCode/tree/master/0402-remove-k-digits) |
 | [1021-remove-outermost-parentheses](https://github.com/snehaG719/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/snehaG719/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/snehaG719/LeetCode/tree/master/1957-delete-characters-to-make-fancy-string) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/snehaG719/LeetCode/tree/master/0143-reorder-list) |
 | [0225-implement-stack-using-queues](https://github.com/snehaG719/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/snehaG719/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/snehaG719/LeetCode/tree/master/0402-remove-k-digits) |
 | [0682-baseball-game](https://github.com/snehaG719/LeetCode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/snehaG719/LeetCode/tree/master/0735-asteroid-collision) |
 | [1021-remove-outermost-parentheses](https://github.com/snehaG719/LeetCode/tree/master/1021-remove-outermost-parentheses) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/snehaG719/LeetCode/tree/master/0402-remove-k-digits) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/snehaG719/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Geometry
 |  |
@@ -327,4 +330,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/snehaG719/LeetCode/tree/master/0225-implement-stack-using-queues) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/snehaG719/LeetCode/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
