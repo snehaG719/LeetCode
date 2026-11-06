@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/snehaG719/LeetCode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/snehaG719/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/snehaG719/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0503-next-greater-element-ii](https://github.com/snehaG719/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/snehaG719/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/snehaG719/LeetCode/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/snehaG719/LeetCode/tree/master/0724-find-pivot-index) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/snehaG719/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/snehaG719/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/snehaG719/LeetCode/tree/master/0402-remove-k-digits) |
+| [0503-next-greater-element-ii](https://github.com/snehaG719/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/snehaG719/LeetCode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/snehaG719/LeetCode/tree/master/0735-asteroid-collision) |
 | [1021-remove-outermost-parentheses](https://github.com/snehaG719/LeetCode/tree/master/1021-remove-outermost-parentheses) |
@@ -334,4 +336,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/snehaG719/LeetCode/tree/master/0402-remove-k-digits) |
+| [0503-next-greater-element-ii](https://github.com/snehaG719/LeetCode/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
