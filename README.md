@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/snehaG719/LeetCode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/snehaG719/LeetCode/tree/master/0735-asteroid-collision) |
 | [0912-sort-an-array](https://github.com/snehaG719/LeetCode/tree/master/0912-sort-an-array) |
+| [1267-count-servers-that-communicate](https://github.com/snehaG719/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/snehaG719/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1882-process-tasks-using-servers](https://github.com/snehaG719/LeetCode/tree/master/1882-process-tasks-using-servers) |
 | [3524-find-x-value-of-array-i](https://github.com/snehaG719/LeetCode/tree/master/3524-find-x-value-of-array-i) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/snehaG719/LeetCode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/snehaG719/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/snehaG719/LeetCode/tree/master/0912-sort-an-array) |
+| [1267-count-servers-that-communicate](https://github.com/snehaG719/LeetCode/tree/master/1267-count-servers-that-communicate) |
 ## Two Pointers
 |  |
 | ------- |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/snehaG719/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [1267-count-servers-that-communicate](https://github.com/snehaG719/LeetCode/tree/master/1267-count-servers-that-communicate) |
 ## Manacher
 |  |
 | ------- |
@@ -287,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/snehaG719/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/snehaG719/LeetCode/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/snehaG719/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [1267-count-servers-that-communicate](https://github.com/snehaG719/LeetCode/tree/master/1267-count-servers-that-communicate) |
 ## Backtracking
 |  |
 | ------- |
@@ -339,4 +343,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0402-remove-k-digits](https://github.com/snehaG719/LeetCode/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/snehaG719/LeetCode/tree/master/0503-next-greater-element-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/snehaG719/LeetCode/tree/master/1267-count-servers-that-communicate) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/snehaG719/LeetCode/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
