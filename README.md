@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/snehaG719/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/snehaG719/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/snehaG719/LeetCode/tree/master/1957-delete-characters-to-make-fancy-string) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/snehaG719/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/snehaG719/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
 |  |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/snehaG719/LeetCode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/snehaG719/LeetCode/tree/master/0735-asteroid-collision) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/snehaG719/LeetCode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/snehaG719/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/snehaG719/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3834-merge-adjacent-equal-elements](https://github.com/snehaG719/LeetCode/tree/master/3834-merge-adjacent-equal-elements) |
 ## Quickselect
